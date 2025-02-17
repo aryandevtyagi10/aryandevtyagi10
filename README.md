@@ -1,11 +1,11 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm Aryan Dev Tyagi </b><a href="https://github.com/aryandevtyagi10"> ADT</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm Aryan Dev Tyagi </b><a href="https://github.com/aryandevtyagi10"> ADT </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br>
-<h1><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;<b>About me 👨‍💻</b></h1> 
+<h1><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 45>&nbsp;</h1> 
 <br>
-
-<img align="right" width=200px height="200px" alt="deathnote" src="/ryuk-apple-deathnote.gif"/>
+<img align="right" width=200px height="300px" alt="deathnote" src="/l-lawliet-death-note.gif"/>
+<b>About me 👨‍💻</b> <br>
 Hey there! I'm Aryan, a passionate Computer Science student halfway through my degree. <br>
 I’m diving deep into both Front-end and learning languages for enhanced problem solving , constantly exploring new technologies to sharpen my skills.<br>
 With hands-on experience as a web developer in the restaurant industry, my goal is to build creative, innovative, and (sometimes) downright fun projects! 🚀<br>
