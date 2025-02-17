@@ -20,20 +20,6 @@ I’m diving deep into both front-end and back-end development, constantly explo
 🎶 Retro music enthusiast
 📜 History nerd—random dates and trivia always welcome!
 📚 Lifelong learner—because stacking my brain with facts is a hobby.
-📩 Let’s connect! Reach out at <a href="👨‍💻 Hey there! I'm Aryan, a passionate Computer Science student halfway through my degree.
-I’m diving deep into both front-end and back-end development, constantly exploring new technologies to sharpen my skills. With hands-on experience as a web developer in the restaurant industry, my goal is to build creative, innovative, and (sometimes) downright fun projects! 🚀
-
-🛠 Currently Learning:
-🐍 Python
-☕ Java
-🌐 JavaScript
-💡 Ask me anything! I love sharing knowledge, helping others, and growing both as a developer and as a person.
-
-🎭 Beyond Code:
-⚽ Die-hard sports fan (Cricket, Football... and yes, I suffer every weekend watching Chelsea play 💀)
-🎶 Retro music enthusiast
-📜 History nerd—random dates and trivia always welcome!
-📚 Lifelong learner—because stacking my brain with facts is a hobby.
 📩 Let’s connect! Reach out at <a href="aryandevtyagi10@gmail.com">aryandevtyagi10@gmail.com</a>
 <br>
 
@@ -67,6 +53,7 @@ I’m diving deep into both front-end and back-end development, constantly explo
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)&nbsp;
 
 
 ###### Development Tools:
@@ -78,6 +65,9 @@ I’m diving deep into both front-end and back-end development, constantly explo
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)&nbsp;
+###### Operating System:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logologo=linux&logoColor=black)
 <br>
 <br>
 
