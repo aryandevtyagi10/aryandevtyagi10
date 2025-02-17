@@ -83,7 +83,7 @@ I’m diving deep into both front-end and back-end development, constantly explo
           <img src="https://github.com/aryandevtyagi10/GoGreen/blob/main/Amazon%20rainforest.jpg" width="500" style="object-fit: cover;" alt="GoGreen">
         </a>
         <p>
-          <a href="https://github.com/AAL1X/El_Molino-v1.0" target="_blank">
+          <a href="https://github.com/aryandevtyagi10/GoGreen.git" target="_blank">
             <img src="https://img.shields.io/badge/GoGreen-ff9?style=for-the-badge&logo=linktree&logoColor=black&color=#32CD32">
           </a>
         </p>
