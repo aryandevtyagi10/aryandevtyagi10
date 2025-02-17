@@ -1,19 +1,40 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm Aryan Dev Tyagi</b><a href="https://github.com/AAL1X">AAL1X</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm Aryan Dev Tyagi</b><a href="https://github.com/aryandevtyagi10">ADT</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="deathnote" src="./ryuk-apple-deathnote.gif"/>
+<img align="right" width=200px alt="deathnote" src="/ryuk-apple-deathnote.gif"/>
 
-I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
-- 📚 I’m currently learning ...
-  - *Python*
-  - *Java*
-  - *Javacript*
-- ✔ Feel free to ask me anything! I’m motivated to help others and grow as human as well.
-- Outside tech, I enjoy playing sports cricket , football etc, ⚽gets depressed every weekend watching Chelsea play, 🎵 listening to retro music, learning random history dates and I also love 📚 stacking my brain with facts and trivia.
-- 📫 Reach out to me at: <a href="aryanndevtyagi10@gmail.com">aryandevtyagi10@gmail.com</a>
+👨‍💻 Hey there! I'm Aryan, a passionate Computer Science student halfway through my degree.
+I’m diving deep into both front-end and back-end development, constantly exploring new technologies to sharpen my skills. With hands-on experience as a web developer in the restaurant industry, my goal is to build creative, innovative, and (sometimes) downright fun projects! 🚀
+
+🛠 Currently Learning:
+🐍 Python
+☕ Java
+🌐 JavaScript
+💡 Ask me anything! I love sharing knowledge, helping others, and growing both as a developer and as a person.
+
+🎭 Beyond Code:
+⚽ Die-hard sports fan (Cricket, Football... and yes, I suffer every weekend watching Chelsea play 💀)
+🎶 Retro music enthusiast
+📜 History nerd—random dates and trivia always welcome!
+📚 Lifelong learner—because stacking my brain with facts is a hobby.
+📩 Let’s connect! Reach out at <a href="👨‍💻 Hey there! I'm Aryan, a passionate Computer Science student halfway through my degree.
+I’m diving deep into both front-end and back-end development, constantly exploring new technologies to sharpen my skills. With hands-on experience as a web developer in the restaurant industry, my goal is to build creative, innovative, and (sometimes) downright fun projects! 🚀
+
+🛠 Currently Learning:
+🐍 Python
+☕ Java
+🌐 JavaScript
+💡 Ask me anything! I love sharing knowledge, helping others, and growing both as a developer and as a person.
+
+🎭 Beyond Code:
+⚽ Die-hard sports fan (Cricket, Football... and yes, I suffer every weekend watching Chelsea play 💀)
+🎶 Retro music enthusiast
+📜 History nerd—random dates and trivia always welcome!
+📚 Lifelong learner—because stacking my brain with facts is a hobby.
+📩 Let’s connect! Reach out at <a href="aryandevtyagi10@gmail.com">aryandevtyagi10@gmail.com</a>
 <br>
 
 <!-- Profile Trophies -->
@@ -43,7 +64,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
-<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
+<img align="right" width=310px alt="action-gif" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/>
 
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -89,15 +110,16 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
+
 <p align="center">
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AAL1X&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAL1X&theme=nightowl&hide_border=false" alt="AAL1X streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aryandevtyagi10&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryandevtyagi10&theme=nightowl&hide_border=false" alt="aryandevtyagi10 streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AAL1X&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aryandevtyagi10&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>
 </tr>
 </table>
