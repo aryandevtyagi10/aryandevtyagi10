@@ -47,10 +47,8 @@ I’m diving deep into both front-end and back-end development, constantly explo
 <!-- Social Links -->
 <div align="center">
   <a href="mailto:aryandevtyagi10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <!-- <a href="https://www.linkedin.com/in/aryan-dev-tyagi-512022286/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a> -->
   <a href="https://www.instagram.com/eleventyone_1111"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
   <a href="https://x.com/EleventyOne1111"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
-  <!-- <a href="https://www.kaggle.com/defaltal1x"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=black" /></a> -->
   <a href="https://github.com/aryandevtyagi10"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
 </div>
 
@@ -89,21 +87,22 @@ I’m diving deep into both front-end and back-end development, constantly explo
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">El Molino</h3>
+      <h3 align="center" style="color:#32CD32;">GoGreen</h3>
       <div align="center">
-        <a href="https://github.com/AAL1X/El_Molino-v1.0" target="_blank">
-          <img src="https://github.com/AAL1X/El_Molino-v1.0/blob/main/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
+        <a href="https://github.com/aryandevtyagi10/GoGreen.git" target="_blank">
+          <img src="https://github.com/aryandevtyagi10/GoGreen/blob/main/Amazon%20rainforest.jpg" width="500" style="object-fit: cover;" alt="GoGreen">
         </a>
         <p>
           <a href="https://github.com/AAL1X/El_Molino-v1.0" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
+            <img src="https://img.shields.io/badge/GoGreen-ff9?style=for-the-badge&logo=linktree&logoColor=black&color=#32CD32">
           </a>
         </p>
-        <p><strong>EL MOLINO</strong> es un juego desarrollado en <strong>C++</strong> que combina estrategias, decisiones e incluye gráficos de calidad sorprendente para una aplicación de consola.</p>
+        <p><strong><span style="color:#32CD32;">GO GREEN</span></strong> is a platform developed to showcase the breathtaking beauty of nature. It immerses you in a world of lush forests, serene landscapes, and majestic wildlife, offering stunning visuals, inspiring stories, and in-depth guides that bring you closer to the wonders of our planet.</p>
       </div>
     </td>
   </tr>
 </table>
+
 <br>
 
 <!-- Github Stats -->
@@ -136,13 +135,4 @@ I’m diving deep into both front-end and back-end development, constantly explo
 <br>
 <br>
 
-<!-- <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryandevtyagi10&show_icons=true&locale=en&layout=compact" alt="aryandevtyagi10" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryandevtyagi10&show_icons=true&locale=en" alt="aryandevtyagi10" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryandevtyagi10&" alt="aryandevtyagi10" /></p>
- -->
 
