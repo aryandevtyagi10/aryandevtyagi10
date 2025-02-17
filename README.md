@@ -1,12 +1,12 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm Aryan Dev Tyagi</b><a href="https://github.com/aryandevtyagi10">ADT</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm Aryan Dev Tyagi </b><a href="https://github.com/aryandevtyagi10"> ADT</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
 <img align="right" width=200px alt="deathnote" src="/ryuk-apple-deathnote.gif"/>
 
-👨‍💻 Hey there! I'm Aryan, a passionate Computer Science student halfway through my degree.
+<pre>👨‍💻 Hey there! I'm Aryan, a passionate Computer Science student halfway through my degree.
 I’m diving deep into both front-end and back-end development, constantly exploring new technologies to sharpen my skills. With hands-on experience as a web developer in the restaurant industry, my goal is to build creative, innovative, and (sometimes) downright fun projects! 🚀
 
 🛠 Currently Learning:
@@ -21,6 +21,7 @@ I’m diving deep into both front-end and back-end development, constantly explo
 📜 History nerd—random dates and trivia always welcome!
 📚 Lifelong learner—because stacking my brain with facts is a hobby.
 📩 Let’s connect! Reach out at <a href="aryandevtyagi10@gmail.com">aryandevtyagi10@gmail.com</a>
+</pre>
 <br>
 
 <!-- Profile Trophies -->
