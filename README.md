@@ -3,7 +3,7 @@
 <br>
 <h1><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 45>&nbsp;<b>About me </b></h1> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="top-right"  width=200px height="300px" alt="deathnote" src="/l-lawliet-death-note.gif"/>
+<img align="right" width=200px height="300px" alt="deathnote" src="/l-lawliet-death-note.gif"/>
 Hey there! I'm Aryan, a passionate Computer Science student halfway through my degree. <br>
 I’m diving deep into both Front-end and learning languages for enhanced problem solving , constantly exploring new technologies to sharpen my skills.<br>
 With hands-on experience as a web developer in the restaurant industry, my goal is to build creative, innovative, and (sometimes) downright fun projects! 🚀<br>
