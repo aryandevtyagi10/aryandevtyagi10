@@ -3,9 +3,10 @@
 <br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;
-<img align="right" width=200px alt="deathnote" src="/ryuk-apple-deathnote.gif"/>
 ***About me***
-👨‍💻 Hey there! I'm Aryan, a passionate Computer Science student halfway through my degree. <br>
+👨‍💻
+<img align="right" width=200px alt="deathnote" src="/ryuk-apple-deathnote.gif"/>
+Hey there! I'm Aryan, a passionate Computer Science student halfway through my degree. <br>
 I’m diving deep into both front-end and back-end development, constantly exploring new technologies to sharpen my skills.<br>
 With hands-on experience as a web developer in the restaurant industry, my goal is to build creative, innovative, and (sometimes) downright fun projects! 🚀<br>
 
@@ -16,10 +17,10 @@ With hands-on experience as a web developer in the restaurant industry, my goal 
 💡 Ask me anything! I love sharing knowledge, helping others,and growing both as a developer and as a person.<br>
 
 🎭 Beyond Code:
-⚽ Die-hard sports fan (Cricket, Football... and yes, I suffer every weekend watching Chelsea play 💀)
-🎶 Retro music enthusiast
-📜 History nerd—random dates and trivia always welcome!
-📚 Lifelong learner—because stacking my brain with facts is a hobby.
+⚽ Die-hard sports fan (Cricket, Football... and yes, I suffer every weekend watching Chelsea play 💀)<br>
+🎶 Retro music enthusiast<br>
+📜 History nerd—random dates and trivia always welcome!<br>
+📚 Lifelong learner—because stacking my brain with facts is a hobby.<br>
 📩 Let’s connect! Reach out at <a href="aryandevtyagi10@gmail.com">aryandevtyagi10@gmail.com</a>
 <br>
 
