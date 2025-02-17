@@ -1,13 +1,13 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1><b>Hi there, I'm Aryan Dev Tyagi </b><a href="https://github.com/aryandevtyagi10"> ADT</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br>
-
+<h1>***About me*** 👨‍💻</h1> <br>
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;
-***About me***
-👨‍💻
-<img align="right" width=200px alt="deathnote" src="/ryuk-apple-deathnote.gif"/>
+
+<img align="right" width=200px height="400px" alt="deathnote" src="/ryuk-apple-deathnote.gif"/>
 Hey there! I'm Aryan, a passionate Computer Science student halfway through my degree. <br>
-I’m diving deep into both front-end and back-end development, constantly exploring new technologies to sharpen my skills.<br>
+I’m diving deep into both Front-end and learning languages for enhanced problem solving , constantly exploring new technologies to sharpen my skills.<br>
 With hands-on experience as a web developer in the restaurant industry, my goal is to build creative, innovative, and (sometimes) downright fun projects! 🚀<br>
 
 🛠 Currently Learning:<br>
@@ -16,14 +16,14 @@ With hands-on experience as a web developer in the restaurant industry, my goal 
 🌐 JavaScript<br>
 💡 Ask me anything! I love sharing knowledge, helping others,and growing both as a developer and as a person.<br>
 
-🎭 Beyond Code:
+🎭 Beyond Code:<br>
 ⚽ Die-hard sports fan (Cricket, Football... and yes, I suffer every weekend watching Chelsea play 💀)<br>
-🎶 Retro music enthusiast<br>
+🎶 Retro music fan(love the 80's rock)or basically every popular song ever<br>
 📜 History nerd—random dates and trivia always welcome!<br>
 📚 Lifelong learner—because stacking my brain with facts is a hobby.<br>
 📩 Let’s connect! Reach out at <a href="aryandevtyagi10@gmail.com">aryandevtyagi10@gmail.com</a>
 <br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Profile Trophies -->
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
