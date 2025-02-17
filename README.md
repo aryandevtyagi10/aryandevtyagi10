@@ -6,14 +6,14 @@
 
 <img align="right" width=200px alt="deathnote" src="/ryuk-apple-deathnote.gif"/>
 
-<pre>👨‍💻 Hey there! I'm Aryan, a passionate Computer Science student halfway through my degree.
+👨‍💻 Hey there! I'm Aryan, a passionate Computer Science student halfway through my degree. 
 I’m diving deep into both front-end and back-end development, constantly exploring new technologies to sharpen my skills. With hands-on experience as a web developer in the restaurant industry, my goal is to build creative, innovative, and (sometimes) downright fun projects! 🚀
-
+<pre>
 🛠 Currently Learning:
 🐍 Python
 ☕ Java
 🌐 JavaScript
-💡 Ask me anything! I love sharing knowledge, helping others, and growing both as a developer and as a person.
+💡 Ask me anything! I love sharing knowledge, helping others,and growing both as a developer and as a person.
 
 🎭 Beyond Code:
 ⚽ Die-hard sports fan (Cricket, Football... and yes, I suffer every weekend watching Chelsea play 💀)
