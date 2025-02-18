@@ -6,7 +6,7 @@
 <img align="right" width=200px height="300px" alt="deathnote" src="/l-lawliet-death-note.gif"/>
 Hey there! I'm Aryan, a passionate Computer Science student halfway through my degree. <br>
 I’m diving deep into both Front-end and learning languages for enhanced problem solving , constantly exploring new technologies to sharpen my skills.<br>
-With hands-on experience as a web developer in the restaurant industry, my goal is to build creative, innovative, and (sometimes) downright fun projects! 🚀<br>
+My goal is to build creative, innovative, and (sometimes) downright fun projects! 🚀<br>
 
 🛠 Currently Learning:<br>
 🐍 Python<br>
