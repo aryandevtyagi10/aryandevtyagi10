@@ -31,7 +31,7 @@ My goal is to build creative, innovative, and (sometimes) downright fun projects
 
 <!-- Social Links -->
 <div align="center">
-  <a href="mailto:aryandevtyagi10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  (mailto:aryandevtyagi10@gmail.com)<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.instagram.com/eleventyone_1111"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
   <a href="https://x.com/EleventyOne1111"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
   <a href="https://github.com/aryandevtyagi10"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
