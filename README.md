@@ -19,7 +19,8 @@ My goal is to build creative, innovative, and (sometimes) downright fun projects
 🎶 Retro music fan(love the 80's rock)or basically every popular song ever<br>
 📜 History nerd—random dates and trivia always welcome!<br>
 📚 Lifelong learner—because stacking my brain with facts is a hobby.<br>
-📩 Let’s connect! Reach out at <a href="aryandevtyagi10@gmail.com">aryandevtyagi10@gmail.com</a>
+📩 Let’s connect! Reach out at 
+<a href="aryandevtyagi10@gmail.com">aryandevtyagi10@gmail.com</a>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Profile Trophies -->
@@ -31,7 +32,7 @@ My goal is to build creative, innovative, and (sometimes) downright fun projects
 
 <!-- Social Links -->
 <div align="center">
-  (mailto:aryandevtyagi10@gmail.com)<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://aryandevtyagi10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.instagram.com/eleventyone_1111"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
   <a href="https://x.com/EleventyOne1111"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
   <a href="https://github.com/aryandevtyagi10"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
