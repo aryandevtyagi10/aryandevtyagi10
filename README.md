@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm Aryan Dev Tyagi </b><a href="https://github.com/aryandevtyagi10"> ADT </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm Aryan Dev Tyagi  </b><a href="https://github.com/aryandevtyagi10"> ADT </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 <h1><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 45>&nbsp;<b>About Me </b></h1> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -12,11 +12,11 @@ My goal is to build creative, innovative, and (sometimes) downright fun projects
 🐍 Python<br>
 ☕ Java<br>
 🌐 JavaScript<br>
-💡 Ask me anything! I love sharing knowledge, helping others,and growing both as a developer and as a person.<br>
+💡 Ask me anything! I love sharing knowledge, helping others,and growing both as a developer and as a person.I want to contribute to the development of our society with all the skills I will gain in my journey .<br>
 
 🎭 Beyond Code:<br>
 ⚽ Die-hard sports fan (Cricket, Football... and yes, I suffer every weekend watching Chelsea play 💀)<br>
-🎶 Retro music fan(love the 80's rock)or basically every popular song ever<br>
+🎶 Retro music fan(love the 80's rock)or basically every popular song ever, never a dull moment in my household while watching television <br>
 📜 History nerd—random dates and trivia always welcome!<br>
 📚 Lifelong learner—because stacking my brain with facts is a hobby.<br>
 📩 Let’s connect! Reach out at 
