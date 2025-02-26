@@ -1,6 +1,4 @@
 
----
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"><h1 align="center">Hi there, I'm Aryan Dev Tyagi  <a href="https://github.com/aryandevtyagi10">ADT</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 ---
 
@@ -104,7 +102,6 @@ Beyond Code 🎭
 </tr>
 </table>
 </p>
----
 
 🔗 Let's Connect!
 
@@ -114,7 +111,7 @@ Beyond Code 🎭
     <a href="https://x.com/EleventyOne1111"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
     <a href="https://github.com/aryandevtyagi10?tab=repositories"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
 </div>
----
+
 
 🏆 Visitors Count
 
