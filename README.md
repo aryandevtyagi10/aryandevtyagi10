@@ -15,11 +15,11 @@
 💡 I enjoy sharing knowledge, helping others, and growing as a developer.
 
 
-Beyond Code 🎭
+Beyond Coding 🎭
 
 ⚽ Die-hard sports fan (Cricket, Football – Chelsea supporter 💀)
 
-🎶 Retro music fan (80s rock and popular songs)
+🎶 Retro music fan (80s rock and popular songs) and Bollywood Classics are love
 
 📜 History nerd – Love random trivia and historical facts!
 
@@ -103,7 +103,7 @@ Beyond Code 🎭
 </table>
 </p>
 
-🔗 Let's Connect!
+🔗 Let's Connect!!
 
 <div align="center">
     <a href="mailto:aryandevtyagi10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
@@ -113,7 +113,7 @@ Beyond Code 🎭
 </div>
 
 
-🏆 Visitors Count
+🏆 Visitors Count!
 
 <div align="center">
     <img src="https://profile-counter.glitch.me/aryandevtyagi10/count.svg">
