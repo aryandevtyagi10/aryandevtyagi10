@@ -5,7 +5,7 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45"> **About Me**
 
-<img align="right" width="250px" height="350px" alt="deathnote" src="/l-lawliet-death-note.gif"/>
+<img align="right" width="250px" height="300px" alt="deathnote" src="/l-lawliet-death-note.gif"/>
 
 Hey there! I'm Aryan, a **Computer Science enthusiast** obsessed with **frontend development**, **problem-solving**, and **compilers**.
 
@@ -100,7 +100,6 @@ Hey there! I'm Aryan, a **Computer Science enthusiast** obsessed with **frontend
 ## 🔗 **Let's Connect!**
 
 <div align="center">
-  <a href="mailto:aryandevtyagi10@gmail.com?cc=secondemail@example.com, anotheremail@example.com, &bcc=lastemail@example.com&subject=Mail from our Website&body=Some body text here">Send Email</a>
     <a href="mailto:aryandevtyagi10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
     <a href="https://www.instagram.com/eleventyone_1111"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
     <a href="https://x.com/EleventyOne1111"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
