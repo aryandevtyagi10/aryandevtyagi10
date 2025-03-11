@@ -27,7 +27,7 @@ Hey there! I'm Aryan, a **Computer Science enthusiast** obsessed with **frontend
 
 📚 **Lifelong learner** – Always curious, always growing
 
-📩 **Let's connect!** → [Email me](mailto:aryandevtyagi10@gmail.com)
+📩 **Let's connect!** → [Email me] at aryandevtyagi2004@gmail.com
 
 ---
 
