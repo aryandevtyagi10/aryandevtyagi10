@@ -4,7 +4,7 @@
 ---
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45"> **About Me**
-<img align="right" width="250px" height="270px" alt="deathnote" src="/l-lawliet-death-note.gif"/>
+<img align="right" width="250px" height="285px" alt="deathnote" src="/l-lawliet-death-note.gif"/>
 
 Hey there! I'm Aryan, a **Computer Science enthusiast** obsessed with **frontend development**, **problem-solving**, and **compilers**.
 
@@ -33,7 +33,7 @@ Hey there! I'm Aryan, a **Computer Science enthusiast** obsessed with **frontend
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **Skills**
 
-<img align="right" width=310px alt="action-gif" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/>
+<img align="right" width=310px height =280px alt="action-gif" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/>
 
 #### **Programming Languages:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
