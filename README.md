@@ -4,7 +4,7 @@
 ---
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45"> **About Me**
-<img align="right" width="250px" height="200px" alt="deathnote" src="/l-lawliet-death-note.gif"/>
+<img align="right" width="250px" height="270px" alt="deathnote" src="/l-lawliet-death-note.gif"/>
 
 Hey there! I'm Aryan, a **Computer Science enthusiast** obsessed with **frontend development**, **problem-solving**, and **compilers**.
 
