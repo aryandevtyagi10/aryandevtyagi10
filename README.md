@@ -4,6 +4,7 @@
 ---
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45"> **About Me**
+<img align="right" width="250px" height="350px" alt="deathnote" src="/l-lawliet-death-note.gif"/>
 
 Hey there! I'm Aryan, a **Computer Science enthusiast** obsessed with **frontend development**, **problem-solving**, and **compilers**.
 
@@ -15,7 +16,7 @@ Hey there! I'm Aryan, a **Computer Science enthusiast** obsessed with **frontend
 
 💡 **Passion:** Open-source collaboration & sharing knowledge
 
-<img align="right" width="200px" height="250px" alt="deathnote" src="/l-lawliet-death-note.gif"/>
+
 ## Beyond Coding 🎭
 
 ⚽ **Die-hard sports fan** – Cricket & Football (Chelsea supporter 💙)
