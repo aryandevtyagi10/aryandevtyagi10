@@ -69,7 +69,7 @@ Hey there! I'm Aryan, a **Computer Science enthusiast** obsessed with **frontend
             <img src="https://img.shields.io/badge/GoGreen-ff9?style=for-the-badge&logo=linktree&logoColor=black&color=#32CD32">
           </a>
         </p>
-        <p><strong><span style="color:#32CD32;">GO GREEN</span></strong> is a platform showcasing the breathtaking beauty of nature, featuring immersive visuals, inspiring stories, and in-depth guides.</p>
+        <p><strong><span style="color:#32CD32;">GO GREEN</span></strong> is a platform showcasing the breathtaking beauty of nature, featuring immersive visuals, inspiring wildlife, and in-depth look at the nature and wildlife all around the world.</p>
       </div>
     </td>
   </tr>
