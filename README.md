@@ -6,9 +6,11 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45"> **About Me**
 <img align="right" width="250px" height="285px" alt="deathnote" src="/l-lawliet-death-note.gif"/>
 
-Hey there! I'm Aryan, a **Computer Science enthusiast** obsessed with **frontend development**, **Problem-solving**, and **Full Stack**.
+Hey there! I'm Aryan, a **Computer Science Student** obsessed with **frontend development**, **Problem-solving**, and **Full Stack**. 
 
 🚀 **Currently Building:** An anime-centric website with **Vanilla JS**
+
+🧑🏻‍💻 **C** language is my first love. 
 
 🛠 **Learning:** Python, Java, and JavaScript to upskill myself.
 
