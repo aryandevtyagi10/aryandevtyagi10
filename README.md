@@ -23,7 +23,7 @@ Hey there! I'm Aryan, a **Computer Science Student** obsessed with **frontend de
 
 ⚽ **Die-hard sports fan** – Cricket & Football (Chelsea supporter 💙)
 
-🎶 **Retro music addict** – 80s rock, Bollywood classics & underrated gems
+🎶 **Retro music addict** – 80s rock, Bollywood classics & pretty much every rom-com watcher!
 
 📜 **History buff** – Deep dives into random trivia & historical facts
 
