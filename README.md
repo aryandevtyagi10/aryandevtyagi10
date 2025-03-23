@@ -8,17 +8,17 @@
 
 Hey there! I'm Aryan, a **Computer Science Student** obsessed with **frontend development**, **Problem-solving**, and **Full Stack**.
 
-🚀 **Currently Building:** An anime-centric website with **Vanilla JS**
+🚀 **Currently Building:** An anime-centric website with **HTML CSS** & **Vanilla JS**.
 
 🧑🏻‍💻 **C** language is my first love. 
 
 🛠 **Learning:** Python, Java, and JavaScript to upskill myself.
 
-🎯 **Goal:** To architect scalable and high-performance applications
+🎯 **Goal:** To architect scalable and high-performance applications.
 
 💡 **Passion:** Open-source collaboration & sharing knowledge. 
 
-🧛🏻 I love **Quizzing**.
+🧛🏻 I love **Quizzing** and general knowledge trivia.
 
 ## Beyond Coding 🎭
 
