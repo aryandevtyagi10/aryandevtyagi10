@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1 align="center">Hey, I'm Aryan Dev <a href="https://github.com/aryandevtyagi10">(ADT)</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey, I'm Aryan Dev Tyagi <a href="https://github.com/aryandevtyagi10">(ADT)</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ---
 
