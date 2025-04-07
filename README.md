@@ -6,13 +6,13 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45"> **About Me**
 <img align="right" width="250px" height="285px" alt="deathnote" src="/l-lawliet-death-note.gif"/>
 
-Hey there! I'm Aryan Dev, a **Computer Science Student** obsessed with **frontend development**, **Problem-solving**, and **Full Stack**.
+Hey there! I'm Aryan Dev Tyagi, a **Computer Science Student** obsessed with **frontend development**, **Problem-solving**, and **Full Stack Development**.
 
 🚀 **Currently Building:** An anime-centric website with **HTML CSS** & **Vanilla JS**.
 
-🧑🏻‍💻 **C** language is my first love. 
+🧑🏻‍💻 **C** language is my first love and **Python** is my guilty pleasure.
 
-🛠 **Learning:** Python, Java, and JavaScript to upskill myself.
+🛠 **Learning:** Java and JavaScript to upskill myself.
 
 🎯 **Goal:** To improve myself day by day and become a better version of myself.
 
