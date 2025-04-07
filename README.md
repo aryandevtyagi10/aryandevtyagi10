@@ -28,7 +28,7 @@ Hey there! I'm Aryan Dev, a **Computer Science Student** obsessed with **fronten
 
 📜 **History buff** – Deep dives into random trivia & historical facts
 
-📚 **Lifelong learner** – Always curious, always growing
+📚 **Lifelong learner** – Always curious, always wanting to grow & learn.
 
 📩 **Let's connect!** → [Email me] at aryandevtyagi2004@gmail.com
 
