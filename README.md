@@ -22,7 +22,7 @@ Hey there! I'm Aryan Dev, a **Computer Science Student** obsessed with **fronten
 
 ## Beyond Coding 🎭
 
-⚽ **Die-hard sports fan** – Cricket & Football (Chelsea supporter 💙)
+⚽ **Die-hard sports fan** – Cricket & Football (Chelsea 💙 Mumbai Indians)
 
 🎶 **Retro music addict** – 80s rock, Bollywood classics & pretty much every rom-com watcher!
 
