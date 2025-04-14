@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1 align="center">Hey, I'm Aryan Dev Tyagi<a href="https://github.com/aryandevtyagi10">(ADT)</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey, I'm Aryan Dev <a href="https://github.com/aryandevtyagi10">(ADT)</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ---
 
@@ -24,7 +24,7 @@ Hey there! I'm Aryan Dev Tyagi, a **Computer Science Student** obsessed with **f
 
 ⚽ **Die-hard sports fan** – Cricket & Football (Chelsea 💙 Mumbai Indians)
 
-🎶 **Retro music addict** – 80s rock, Bollywood classics & pretty much every rom-com watcher!
+🎶 **Retro music addict** – 80s metal, Bollywood classics & pretty much every rom-com watcher!
 
 📜 **History buff** – Deep dives into random trivia & historical facts
 
