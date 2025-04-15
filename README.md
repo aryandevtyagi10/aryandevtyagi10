@@ -16,7 +16,7 @@ Hey there! I'm Aryan Dev Tyagi, a **Computer Science Student** obsessed with **f
 
 🎯 **Goal:** To improve myself day by day and become a better version of myself.
 
-💡 **Passion:** Open-source collaboration & sharing knowledge. 
+💡 **Passion:** Building and Exploring new stuffs 😉
 
 🧛🏻 I love **Quizzing** and hosting **Quizzes** .
 
