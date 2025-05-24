@@ -1,25 +1,22 @@
-# <div align="center">👋 Hey, I'm Aryan (ADT)</div>
+# <div align="center">👋 Hi, I'm Aryan (ADT)</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Problem+Solver;Full+Stack+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Problem+Solver;Full+Stack+Enthusiast;Open+Source+Lover" alt="Typing SVG">
   </a>
 </div>
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <h2>🚀 About Me</h2>
-    
-    - 🎓 Computer Science Student passionate about design and software
-    - 💻 Currently building: **Giggle Gallery - Meme Generator**
-    - 🌱 Learning: **React**, **TypeScript**, **Node.js**, **JavaScript**
-    - 🎯 2024 Goal: Master Full Stack Development
-    - ⚡ Fun fact: I'm a quiz master and sports enthusiast!
-  </div>
-  <div style="flex: 1;">
-    <img width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding animation">
-  </div>
-</div>
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science student passionate about design and software
+- 💻 Currently building: **Giggle Gallery - Meme Generator**
+- 🌱 Learning: **React**, **TypeScript**, **Node.js**, **JavaScript**
+- 🎯 2024 Goal: Master Full Stack Development
+- ⚡ Fun fact: Quiz master and sports enthusiast!
+
+---
 
 ## 💻 Tech Stack
 
@@ -39,49 +36,71 @@
 
 </div>
 
+---
+
 ## 🌟 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/aryandevtyagi10/Cloudy-with-a-Chance-of-Thunder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandevtyagi10&repo=Cloudy-with-a-Chance-of-Thunder&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/aryandevtyagi10/GoGreen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandevtyagi10&repo=GoGreen&theme=tokyonight" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/aryandevtyagi10/Cloudy-with-a-Chance-of-Thunder">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandevtyagi10&repo=Cloudy-with-a-Chance-of-Thunder&theme=tokyonight" alt="Cloudy-with-a-Chance-of-Thunder" />
+      </a>
+      <br>
+      <b>Cloudy with a Chance of Thunder</b>
+      <br>
+      <sub>Weather app providing live updates and forecasts.</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/aryandevtyagi10/GoGreen">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandevtyagi10&repo=GoGreen&theme=tokyonight" alt="GoGreen" />
+      </a>
+      <br>
+      <b>GoGreen</b>
+      <br>
+      <sub>Eco-friendly platform to track and improve your carbon footprint.</sub>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryandevtyagi10&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryandevtyagi10&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=aryandevtyagi10&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryandevtyagi10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
+
+---
 
 ## 🎯 Beyond Tech
 
 <table>
   <tr>
-    <td>🏏 Cricket & Football enthusiast (Chelsea 💙 Mumbai Indians)</td>
+    <td>🏏 Cricket & Football enthusiast (Chelsea 💙, Mumbai Indians)</td>
     <td>🎵 Retro music lover & movie buff</td>
   </tr>
   <tr>
-    <td>📚 History enthusiast & lifelong learner</td>
+    <td>📚 History buff & lifelong learner</td>
     <td>📜 Quizzer</td>
   </tr>
 </table>
+
+---
 
 ## 🤝 Connect With Me
 
 <div align="center">
   <a href="mailto:aryandevtyagi2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/aryan-dev-tyagi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/EleventyOne1111">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
 
@@ -93,6 +112,6 @@
 
 <div align="center">
   <i>Let's connect and build something amazing together! 🚀</i>
-  
-  ![Snake animation](https://github.com/aryandevtyagi10/aryandevtyagi10/blob/output/github-contribution-grid-snake.svg)
+  <br>
+  <img src="https://github.com/aryandevtyagi10/aryandevtyagi10/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
