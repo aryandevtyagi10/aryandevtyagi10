@@ -8,9 +8,9 @@
 
 ## 🚀 Quick Facts
 
-- 🎓 Computer Science Student passionate about tech
+- 🎓 Computer Science Student passionate about Computer design and software.
 - 💻 Currently building: **Giggle Gallery - Meme Generator**
-- 🌱 Learning: **React**, **TypeScript**, and **Node.js**
+- 🌱 Learning: **React**, **TypeScript**, and **Node.js**, **JavaScript**.
 - 🎯 2024 Goal: Master Full Stack Development
 - ⚡ Fun fact: I'm a quiz master and sports enthusiast!
 
