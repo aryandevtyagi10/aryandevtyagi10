@@ -55,7 +55,7 @@
 - 🏏 Cricket & Football enthusiast (Chelsea 💙 Mumbai Indians)
 - 🎵 Retro music lover & movie buff
 - 📚 History enthusiast & lifelong learner
-- 🎮 Casual gamer
+- 📜 Quizzer 
 
 ## 🤝 Connect With Me
 
