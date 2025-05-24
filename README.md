@@ -1,18 +1,25 @@
 # <div align="center">👋 Hey, I'm Aryan (ADT)</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Problem+Solver;Full+Stack+Enthusiast" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Problem+Solver;Full+Stack+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding animation">
-
-## 🚀 Quick Facts
-
-- 🎓 Computer Science Student passionate about Computer design and software.
-- 💻 Currently building: **Giggle Gallery - Meme Generator**
-- 🌱 Learning: **React**, **TypeScript**, and **Node.js**, **JavaScript**.
-- 🎯 2024 Goal: Master Full Stack Development
-- ⚡ Fun fact: I'm a quiz master and sports enthusiast!
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <h2>🚀 About Me</h2>
+    
+    - 🎓 Computer Science Student passionate about design and software
+    - 💻 Currently building: **Giggle Gallery - Meme Generator**
+    - 🌱 Learning: **React**, **TypeScript**, **Node.js**, **JavaScript**
+    - 🎯 2024 Goal: Master Full Stack Development
+    - ⚡ Fun fact: I'm a quiz master and sports enthusiast!
+  </div>
+  <div style="flex: 1;">
+    <img width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding animation">
+  </div>
+</div>
 
 ## 💻 Tech Stack
 
@@ -47,15 +54,22 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryandevtyagi10&theme=tokyonight&hide_border=true" />
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=aryandevtyagi10&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
 ## 🎯 Beyond Tech
 
-- 🏏 Cricket & Football enthusiast (Chelsea 💙 Mumbai Indians)
-- 🎵 Retro music lover & movie buff
-- 📚 History enthusiast & lifelong learner
-- 📜 Quizzer 
+<table>
+  <tr>
+    <td>🏏 Cricket & Football enthusiast (Chelsea 💙 Mumbai Indians)</td>
+    <td>🎵 Retro music lover & movie buff</td>
+  </tr>
+  <tr>
+    <td>📚 History enthusiast & lifelong learner</td>
+    <td>📜 Quizzer</td>
+  </tr>
+</table>
 
 ## 🤝 Connect With Me
 
@@ -79,4 +93,6 @@
 
 <div align="center">
   <i>Let's connect and build something amazing together! 🚀</i>
+  
+  ![Snake animation](https://github.com/aryandevtyagi10/aryandevtyagi10/blob/output/github-contribution-grid-snake.svg)
 </div>
