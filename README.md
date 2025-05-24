@@ -36,7 +36,7 @@
 
 <div align="center">
   <a href="https://github.com/aryandevtyagi10/Cloudy-with-a-Chance-of-Thunder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandevtyagi10&repo=giggle-gallery-generator&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandevtyagi10&repo=Cloudy-with-a-Chance-of-Thunder&theme=tokyonight" />
   </a>
   <a href="https://github.com/aryandevtyagi10/GoGreen">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandevtyagi10&repo=GoGreen&theme=tokyonight" />
