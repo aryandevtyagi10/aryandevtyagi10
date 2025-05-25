@@ -114,4 +114,7 @@
   <i>Let's connect and build something amazing together! 🚀</i>
   <br>
   <img src="https://github.com/aryandevtyagi10/aryandevtyagi10/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryandevtyagi10=github_dark"/>
+</p>
 </div>
