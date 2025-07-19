@@ -11,10 +11,10 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science student passionate about design and software
-- 💻 Currently building: **Different - JS proejcts**
-- 🌱 Learning: **React**, **TypeScript**, **Node.js**, **JavaScript**
-- 🎯 2024 Goal: Master Full Stack Development
-- ⚡ Fun fact: Quiz master and sports enthusiast!
+- 💻 Currently building: **Different - Java SpringBoot proejcts**
+- 🌱 Learning: **React**,**Java**, **SpringBoot**, **Node.js**, **JavaScript**
+- 🎯 2025 Goals: Master **Java Full Stack Development**, **LeetCode 150+ Questions**
+- ⚡ Fun fact: Quiz lover and Knowledge Hoarder!
 
 ---
 
