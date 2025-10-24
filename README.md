@@ -57,7 +57,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/aryandevtyagi10/Cine-Lumiere.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandevtyagi10&repo=&theme=tokyonight" alt="Cine Lumiére" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandevtyagi10&repo=Cine-Lumiere&theme=tokyonight" alt="Cine Lumiére" />
       </a>
       <br>
       <b>Cine Lumiére</b>
