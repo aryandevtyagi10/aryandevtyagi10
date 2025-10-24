@@ -1,4 +1,4 @@
-# <div align="center">👋 Hi, I'm Aryan (ADT)</div>
+# <div align="center">👋 Hi, I'm Aryan </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -56,13 +56,13 @@
       <sub>Weather app providing live updates and forecasts.</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/aryandevtyagi10/GoGreen">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandevtyagi10&repo=GoGreen&theme=tokyonight" alt="GoGreen" />
+      <a href="https://github.com/aryandevtyagi10/Cine-Lumiere.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandevtyagi10&repo=&theme=tokyonight" alt="Cine Lumiére" />
       </a>
       <br>
-      <b>GoGreen</b>
+      <b>Cine Lumiére</b>
       <br>
-      <sub>Eco-friendly platform to track and improve your carbon footprint.</sub>
+      <sub>Retro movies recommendation platform for cinephiles.</sub>
     </td>
   </tr>
 </table>
