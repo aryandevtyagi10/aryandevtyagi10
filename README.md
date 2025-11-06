@@ -82,14 +82,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryandevtyagi10&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🎯 Beyond Tech
 
 <table>
