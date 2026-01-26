@@ -36,7 +36,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
@@ -70,7 +69,7 @@
 
 ---
 
-## 📊 GitHub Insights
+<!--## 📊 GitHub Insights
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=aryandevtyagi10&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
@@ -79,7 +78,7 @@
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryandevtyagi10&theme=tokyo-night" alt="Activity Graph"/>
 </div>
-
+!-->
 ---
 
 ## 🎯 Beyond Tech
@@ -103,7 +102,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryandevtyagi2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-dev-tyagi)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EleventyOne1111)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryandevtyagi10&style=flat-square&color=blue)
 
