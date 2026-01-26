@@ -13,7 +13,7 @@
 - 🎓 Computer Science student passionate about design, architecture, and software craftsmanship  
 - 💻 Currently building: **Spring Boot + React full-stack projects**  
 - 🌱 Learning: **React**, **Spring Boot**, **Node.js**, **Java**, **JavaScript**  
-- 🎯 2025 Goals: Master **Java Full Stack Development** & solve **150+ LeetCode problems**  
+- 🎯 2025 Goals: Master **Java Full Stack Development** 
 - ⚡ Fun fact: Quizzer, history nerd, and lifelong learner!  
 
 ---
