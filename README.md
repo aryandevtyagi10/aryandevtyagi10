@@ -3,7 +3,7 @@
 # 👋 Hey, I'm Aryan Dev Tyagi
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=AWS+Solutions+Architect+%E2%98%81%EF%B8%8F;Full+Stack+Engineer;Cloud+%26+Security+Builder;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=AWS+Solutions+Architect+%E2%98%81%EF%B8%8F;Full+Stack+Engineer;Cloud+%26+Security+Builder;AI+Practitioner;Cloud+Practitioner" alt="Typing SVG" />
 </a>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryandevtyagi10@gmail.com)
