@@ -6,8 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=AWS+Solutions+Architect+%E2%98%81%EF%B8%8F;Full+Stack+Engineer;Cloud+%26+Security+Builder;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryandevtyagi2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-dev-tyagi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryandevtyagi10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-dev-tyagi-512022286 )
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aryandevtyagi10)
 ![Profile Views](https://komarev.com/ghpvc/?username=aryandevtyagi10&style=flat-square&color=6C63FF)
 
