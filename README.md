@@ -56,15 +56,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>☁️ CloudGuard AI</h3>
-      <sub><b>AWS Lambda · API Gateway · S3 · IAM · React · Node.js</b></sub>
-      <br><br>
-      <p>Serverless cloud security scanner that detects IAM misconfigurations and S3 vulnerabilities. REST APIs trigger scans, retrieve reports from S3, and feed a React dashboard with live severity charts and risk-trend analytics.</p>
-      <a href="https://github.com/aryandevtyagi10/Cloud-Guard">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
       <h3>🤖 HireMind AI</h3>
       <sub><b>React · Node.js · Express · MongoDB · GenAI · JWT · Razorpay</b></sub>
       <br><br>
