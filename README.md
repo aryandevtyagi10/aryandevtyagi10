@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00BFA6&height=210&section=header&text=Aryan%20Dev%20Tyagi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20Security%20Engineer%20%7C%20AWS%20Triple%20Certified%20%7C%20GenAI%20Builder&descAlignY=55&descSize=17" width="100%"/>
+# Aryan Dev Tyagi
+
+**Cloud Security & Serverless Engineer &nbsp;|&nbsp; AWS Triple Certified &nbsp;|&nbsp; GenAI Builder**
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AWS+Solutions+Architect+%E2%98%81%EF%B8%8F;Cloud+Security+%26+Serverless+Builder;GenAI+%2F+LLM+Application+Developer;Triple+AWS+Certified+%E2%9A%A1;Quizzer+%C2%B7+History+Nerd+%C2%B7+Chelsea+%F0%9F%92%99" alt="Typing SVG" />
@@ -11,7 +13,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryandevtyagi10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-dev-tyagi-512022286)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryandevtyagi10)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rintaro2026)
+<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aryandevtyagi10) -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryandevtyagi10&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
 
@@ -217,14 +219,14 @@ Contributed through issues, feature branches, and PRs in a multi-contributor cod
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=aryandevtyagi10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryandevtyagi10&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryandevtyagi10&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=aryandevtyagi10&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=aryandevtyagi10&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
 
-<img src="https://raw.githubusercontent.com/aryandevtyagi10/aryandevtyagi10/output/github-contribution-grid-snake-dark.svg" width="100%"/> 
+<img src="https://raw.githubusercontent.com/aryandevtyagi10/aryandevtyagi10/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <br/>
 
@@ -232,7 +234,7 @@ Contributed through issues, feature branches, and PRs in a multi-contributor cod
 
 | | |
 |---|---|
-| 🏆 IIT Delhi Rendezvous Quiz Finalist | 🥈 UGMC Delhi Quiz Runner-up |
+| 🏆 IIT Delhi Rendezvous Quiz Finalist | 🥈 UGMC Delhi Quiz Runner-up | 
 | 🏏 Chelsea 💙 & Mumbai Indians 💛 fan | 🎞️ Retro music & classic film buff |
 | 📚 History lover & lifelong learner | 🧠 President, KIET Quizzinga Club |
 
